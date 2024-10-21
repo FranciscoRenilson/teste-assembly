@@ -1,0 +1,22 @@
+label
+1.delimitação
+	legibilidade
+	modularização
+2.referenciação
+	endereçamento
+	identificação
+	
+	
+	
+leitura da esquerda para direita
+mais  menos
+11 10 98 765 43210
+
+in ler dá ram para acumulador DR
+out ler de DR para ram
+
+	
+	
+		
+		
+

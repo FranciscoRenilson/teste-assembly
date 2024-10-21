@@ -1,0 +1,73 @@
+0x0000: JP Main
+0x0002: "Numero 1: ",0
+0xNNNN: "Numero 2: ",0
+
+0x00   02 -> 12 BITS
+
+8 BITS
+P0 = 0x00
+P1 = 0x02
+
+
+P1 = 0x00 +1 +1 +1 ... 0xFF + 1
+P0 = 0x01
+P0 = 0x02
+
+0x1 00
+0x2 00
+
+Valor1 -> 0x002
+
+0000 0000 0010
+
+DR = 0000 -> 4 bits a a partir do 9ª bit de Valor1
+DR = 0010 -> 4 bits a a partir do 1ª bit de Valor1
+
+1. Endereço 23 precisa ser calculado
+	* endereço calculado!
+2. Endereço 26 precisa ser calculado
+	* endereco calculado!
+3. Endereço 28 precisa ser calculado
+
+
+1. EXERCÍCIO -> Identificar a sequência do programa e fazer as devidas correções:
+
+Endereço	Dados
+
+0x0000:		F0 18
+0x0002: 	4e 75 6d 65 72 6f 20 31 3a 20 00
+0x000D:		4e 75 6d 65 72 6f 20 32 3a 20 00
+0x0018: 	60 90 62 91
+0x001C:		61 71
+0x001E:		81 41 91
+0x0021: 	82 C0 E0 28
+0x0025:		93 FF F6
+0x0028: 	63 B4 69 93
+
+00
+
+60 90 6D 91
+61 71
+82 C0 E0 06
+93 
+81 41 91
+FF F6
+63 B4 67 93
+FF BB
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

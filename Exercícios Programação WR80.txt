@@ -1,0 +1,40 @@
+1. EXERCÍCIO -> Identificar a sequência do programa e fazer as devidas correções:
+
+Endereço	Dados
+
+0x000:	F0 18
+0x002: 	4e 75 6d 65 72 6f 20 31 3a 20 00
+0x00D:	4e 75 6d 65 72 6f 20 32 3a 20 00
+0x018: 	60 90 62 91
+0x01C:	61 71
+0x01E:	81 41 91
+0x021: 	82 C0 E0 28
+0x025:	93 FF F6
+0x028: 	63 B4 69 93
+0x02C:   00
+0x02D:   60 90 6D 91
+0x031:   61 71
+0x033:   82 C0 E0 06
+93 
+81 41 91
+FF F6
+63 B4 67 93
+FF BB
+
+2. Faça um programa que some 1 + 2 + 3 e exiba o resultado.
+   Observações: O resultado deve aparecer como: "O resultado e = "
+
+3. Baseado no programa que fizemos nesta aula, adapte o programa colocando 
+   as duas Strings Valor1 e Valor2 na memória ROM e carregue da ROM para a RAM e exiba no monitor.
+
+   0  1 2 3 4 5 6 7 8 9 a b c d e f
+   10 11 12 13 14 15 16 17 18 19 1a 1b 1c 1d 1e 1f
+   20 21 22 23 24 25 26 27 28 29 2a 2b 2c 2d 2e 2f
+   30 31 32 33 .................................3f
+   40 ..........................................4f
+   50 ..........................................5f
+   60 ..........................................6f
+   70 ..........................................7f
+   80 ..........................................8f
+   90 ..........................................9f
+   a0 a1 a2 a3 a4 a5 a6 a7 a8 a9 aa ab ac ad ae af
