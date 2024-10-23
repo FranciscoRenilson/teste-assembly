@@ -1,0 +1,72 @@
+endereços	codigo	F0	18									
+0x000	hex	0	1									
+	decimal	1	2									
+												
+	codigo	4e	75	6d	65	72	6f	20	31	3a	20	00
+0x002	hex	2	3	4	5	6	7	8	9	a	b	c
+	decimal	3	4	5	6	7	8	9	10	11	12	13
+												
+	codigo	4e	75	6d	65	72	6f	20	32	3a	20	00
+0x00d	hex	d	e	f	10	11	12	13	14	15	16	17
+	decimal	14	15	16	17	18	19	20	21	22	23	24
+												
+	codigo	60	90	62	91							
+0x018	hex	18	19	1a	1b							
+	decimal	25	26	27	28							
+												
+	codigo	61	71									
+0x01c	hex	1c	1d									
+	decimal	29	30									
+												
+	codigo	81	41	91								
+0x01e	hex	1e	1f	20								
+	decimal	31	32	33								
+												
+	codigo	82	C0	E0	28							
+0x021	hex	21	22	23	24							
+	decimal	34	35	36	37							
+												
+	codigo	93	FF	F6								
+0x025	hex	25	26	27								
+	decimal	38	39	40								
+												
+	codigo	63	B4	69	93							
+0x028	hex	28	29	2a	2b							
+	decimal	41	42	43	44							
+												
+	codigo	00										
+0x2c	hex	2c										
+	decimal	45										
+												
+	codigo	60	90	6D	91							
+0x02d	hex	2d	2e	2f	30							
+	decimal	46	47	48	49							
+												
+	codigo	61	71									
+0x31	hex	31	32									
+	decimal	50	51									
+												
+	codigo	82	C0	E0	06							
+0x33	hex	33	34	35	36							
+	decimal	52	53	54	55							
+												
+	codigo	93										
+0x037	hex	37										
+	decimal	56										
+												
+	codigo	81	41	91								
+0x038	hex	38	39	3a								
+	decimal	57	58	59								
+												
+	codigo	FF	F6									
+0x03b	hex	3b	3c									
+	decimal	60	61									
+												
+	codigo	63	B4	67	93							
+0x03d	hex	3d	3e	3f	40							
+	decimal	62	63	64	65							
+												
+	codigo	FF	BB									
+0x041	hex	41	42									
+	decimal	66	67									
+
